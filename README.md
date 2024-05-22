@@ -2,6 +2,7 @@
 
 (Basado en Repositorio CMI24, incluye card personal)
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
+https://github.com/theduell/CMI24/blob/main/OIP.jpg
 
 
 
