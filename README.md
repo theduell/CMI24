@@ -20,9 +20,7 @@ https://github.com/theduell/CMI24/blob/main/OIP.jpg
 
 **Estilo/género:**  Cómic animado con minijuego
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
-
-(insertar imágenes a resolucion de 100px alto)
+**Logotipo** : ![title](https://github.com/theduell/theduell.github.io/blob/main/Titulo6.png?raw=true)
 
 **Resolución:** 800x600px
 
