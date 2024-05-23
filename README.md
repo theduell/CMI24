@@ -88,20 +88,20 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+- https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/ Mecánica de combate
+- https://support-leagueoflegends.riotgames.com/hc/es-419/articles/17211174098963-Soul-Fighter-Torneo-de-las-Almas Ideas de combate
 
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante porque permite un juego entretenido y con cierto desafío, acompañado de una historia sencilla y fácil de digerir.
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a todos los públicos
 
 
 
@@ -111,7 +111,7 @@ Este  proyecto es interesante porque ...
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
+- El juego fue planteado como algo más parecido a un juego de peleas tradicional, sin embargo, dadas las limitacio
 - Video 
 - Instrucciones y ayuda al usuario 
 - Menús y elementos de navegación (botones)
