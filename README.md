@@ -12,21 +12,21 @@ https://github.com/theduell/CMI24/blob/main/OIP.jpg
 
 **Titulo** : The Duel
 
-**Web:**   https://    (url github.io)
+**Web:**   https://theduell.github.io/Exportado
 
 **Autor:**  Ismael León Arjona
 
-**Resumen** : lorem ipsun dolor.... 
+**Resumen** : Historia del oeste ambientada en Midset, un poblado dominado por el bandido Bass Pickett. A este, como destino de paso, llega Kit Reeves, un vaquero solitario que deberá enfrentarse a Bass en un duelo para seguir avanzando. Historia contada mediante cómic y con un minijuego.
 
-**Estilo/género:**  Comic con minijuego
+**Estilo/género:**  Cómic animado con minijuego
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
 (insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 800x600px
 
-**Probado en:**   Google Chrome e Hippani Animator 5
+**Probado en:**   Google Chrome, Microsoft Edge e Hippani Animator 5
 
 **Tamaño proyecto:** XXMB 
 
@@ -36,7 +36,7 @@ https://github.com/theduell/CMI24/blob/main/OIP.jpg
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
+- Github: https://theduell.github.io/Exportado
 - Twitter
 - Instagram
 
