@@ -39,7 +39,7 @@ https://github.com/theduell/CMI24/blob/main/OIP.jpg
 - Instagram
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
+![some](https://github.com/theduell/theduell.github.io/blob/main/vi%C3%B1eta%202.png?raw=true)
 
 # 2. Memoria del proyecto 
 
@@ -47,7 +47,22 @@ https://github.com/theduell/CMI24/blob/main/OIP.jpg
 
 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+Realmente no hubo mucho desarrollo de storyboard, simplemente se hizo una pequeña imagen para el menú inicial y de ahí se fue anexando poco a poco.
+Inicialmente se hizo la imagen del menú junto a los botones, que daba acceso a la selección de capítulos del cómic, los cuales luego se fueron añadiendo y animando.
+También se hizo la galería, donde se fueron documentando las imágenes usadas y los diseños de los personajes.
+Por último se añadieron los créditos del mismo, que también se irían cambiando conforme se fuera añadiendo la música del proyecto final.
+
+La idea del juego se basa en un cómic con un pequeño minijuego incluido.
+Hablando más en concreto de este punto, busca usar una mecánica para
+bloquear ataques en momentos concretos usando una sola tecla,
+evitando el daño y ganando puntuación. Si estos ataques impactan varias
+veces, la vida llega a 0 y por ende se pierde.
+Fuera de eso, las animaciones y diseños han sido hechas por mí, mientras
+que la música añadida y efectos de sonido son de Pixabay.
+
+Por último, se añadieron varias pistas de audio y todo el comic de la historia, con una
+pequeña parte de animación usando timelines. También se han añadido
+los vídeos necesarios, y un contador de vidas en la zona del minijuego. Se tuvo que solucionar un error inesperado de exportación, pero tras eso, nada más en especial.
 
 
 
