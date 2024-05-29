@@ -86,7 +86,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
+**Investigación de campo**
 
 - https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/ Mecánica de combate
 - https://support-leagueoflegends.riotgames.com/hc/es-419/articles/17211174098963-Soul-Fighter-Torneo-de-las-Almas Ideas de combate
@@ -111,9 +111,9 @@ Este  proyecto es interesante porque permite un juego entretenido y con cierto d
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- El juego fue planteado como algo más parecido a un juego de peleas tradicional, sin embargo, dadas las limitacio
-- Video 
-- Instrucciones y ayuda al usuario 
+- El juego fue planteado como algo más parecido a un juego de peleas tradicional, sin embargo, dadas las limitaciones del programa, al final se convirtió en un juego de bloquear disparos, pues la función de ataque junto a los temporizadores no era posible.
+- Los vídeos no dieron problemas en su mayoría, simplemente ubicarlos correctamente en la carpeta necesaria y ya.
+- Los controles son muy sencillos, tanto en el minijuego como en la función de cómic, por lo que es intuitivo
 - Menús y elementos de navegación (botones)
 - etc.
 
