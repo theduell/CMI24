@@ -27,11 +27,11 @@ https://github.com/theduell/CMI24/blob/main/OIP.jpg
 
 **Probado en:**   Google Chrome, Microsoft Edge e Hippani Animator 5
 
-**Tamaño proyecto:** XXMB 
+**Tamaño proyecto:** 9.58MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 22/05/2024
+**Fecha** : 29/05/2024
 
 **Medios** (donde se tiene presencia relacionada):
 
