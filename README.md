@@ -33,7 +33,7 @@ https://github.com/theduell/CMI24/blob/main/OIP.jpg
 
 **Fecha** : 29/05/2024
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios** :
 
 - Github: https://theduell.github.io/Exportado
 
