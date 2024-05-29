@@ -70,7 +70,7 @@ los vídeos necesarios, y un contador de vidas en la zona del minijuego. Se tuvo
 
 
 
-.
+![soime](https://github.com/theduell/theduell.github.io/blob/main/Esquema.png?raw=true)
 
 
 
