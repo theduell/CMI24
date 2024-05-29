@@ -113,8 +113,8 @@ Este  proyecto es interesante porque permite un juego entretenido y con cierto d
 
 - El juego fue planteado como algo más parecido a un juego de peleas tradicional, sin embargo, dadas las limitaciones del programa, al final se convirtió en un juego de bloquear disparos, pues la función de ataque junto a los temporizadores no era posible.
 - Los vídeos no dieron problemas en su mayoría, simplemente ubicarlos correctamente en la carpeta necesaria y ya.
-- Los controles son muy sencillos, tanto en el minijuego como en la función de cómic, por lo que es intuitivo
-- Menús y elementos de navegación (botones)
+- Los controles son muy sencillos, tanto en el minijuego como en la función de cómic, por lo que es intuitivo y fácil de comprender.
+- El menú también es bastante sencillo, usa distintos
 - etc.
 
 
