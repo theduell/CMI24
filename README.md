@@ -36,8 +36,6 @@ https://github.com/theduell/CMI24/blob/main/OIP.jpg
 **Medios** (donde se tiene presencia relacionada):
 
 - Github: https://theduell.github.io/Exportado
-- Twitter
-- Instagram
 
 
 ![some](https://github.com/theduell/theduell.github.io/blob/main/vi%C3%B1eta%202.png?raw=true)
