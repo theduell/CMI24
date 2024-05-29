@@ -110,8 +110,6 @@ Este  proyecto es interesante porque permite un juego entretenido y con cierto d
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
-
 - El juego fue planteado como algo más parecido a un juego de peleas tradicional, sin embargo, dadas las limitaciones del programa, al final se convirtió en un juego de bloquear disparos, pues la función de ataque junto a los temporizadores no era posible.
 - Los vídeos no dieron problemas en su mayoría, simplemente ubicarlos correctamente en la carpeta necesaria y ya.
 - Los controles son muy sencillos, tanto en el minijuego como en la función de cómic, por lo que es intuitivo y fácil de comprender.
