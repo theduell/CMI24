@@ -114,20 +114,21 @@ Este  proyecto es interesante porque permite un juego entretenido y con cierto d
 - El juego fue planteado como algo más parecido a un juego de peleas tradicional, sin embargo, dadas las limitaciones del programa, al final se convirtió en un juego de bloquear disparos, pues la función de ataque junto a los temporizadores no era posible.
 - Los vídeos no dieron problemas en su mayoría, simplemente ubicarlos correctamente en la carpeta necesaria y ya.
 - Los controles son muy sencillos, tanto en el minijuego como en la función de cómic, por lo que es intuitivo y fácil de comprender.
-- El menú también es bastante sencillo, usa distintos
-- etc.
+- El menú también es bastante sencillo, usa distintos botones para vnzar entre ellos, con música implementada y posibilidad de retroceder en cualquier momento, por si surge alguna equivocación durante la navegación.
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+Actualmente considero que no hay problemas mayores, salvo que el minijuego es bastante sencillo, distinto a la idea original.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+El proyecto, a nivel general, ha sido bastante satisfactorio y entretenido. Ha servido como toma de conacto con la programción, aunque al final se ha quedado corto. Me gustaría ampliar el apartado jugabilístico, pues considero que el juego estab mejor preparado para hacer un sistema algo más complejo que añdiera más versatilidad.
+Por otro lado, realizar las animaciones y estéticas ha sido de lo mejor, pues le ha dado la estética que buscaba concretamente para el proyecto, por lo que ha servido también par practicar un poco cosas de animación. 
+En general, estoy satisfecho con el proyecto que ha salido.
 
 
 
@@ -143,9 +144,9 @@ Este  proyecto es interesante porque permite un juego entretenido y con cierto d
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica:  Recogida de Pixabay, numerosos artistas
+* Imágenes:  Realizada por mí
+* Tipografía: Western
 
 **Herramientas utilizadas**
 
