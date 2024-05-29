@@ -70,7 +70,7 @@ los vídeos necesarios, y un contador de vidas en la zona del minijuego. Se tuvo
 
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+.
 
 
 
@@ -146,16 +146,15 @@ En general, estoy satisfecho con el proyecto que ha salido.
 
 * Musica:  Recogida de Pixabay, numerosos artistas
 * Imágenes:  Realizada por mí
-* Tipografía: Western
+* Tipografía: Western de James L. DeVriese, Dafont
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
 
 
+.
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
 
 https://creativecommons.org/licenses/?lang=es
 
